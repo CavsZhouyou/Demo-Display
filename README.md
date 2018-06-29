@@ -1,2 +1,2 @@
 # Demo-Display
-display some my html demos
+display my html demos
